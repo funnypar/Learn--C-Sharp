@@ -1,0 +1,46 @@
+# C# Practice Questions - Mosh Course
+
+This repository contains solutions to practice questions from the **C# Course by Mosh Hamedani**. Each program addresses a specific problem to enhance understanding of fundamental C# programming concepts.
+
+## Table of Contents
+1. [Questions](#questions)
+2. [How to Use](#how-to-use)
+3. [Contributing](#contributing)
+4. [License](#license)
+
+---
+
+## Questions
+
+### Practice 1  
+Write a program to count how many numbers between 1 and 100 are divisible by 3 with no remainder. Display the count on the console.
+
+---
+
+### Practice 2  
+Write a program that continuously asks the user to enter a number or "ok" to exit. Calculate the sum of all previously entered numbers and display it on the console.
+
+---
+
+### Practice 3  
+Write a program that asks the user to enter a number. Compute the factorial of the number and print it on the console. For example, if the user enters 5, the program should calculate `5 x 4 x 3 x 2 x 1` and display it as `5! = 120`.
+
+---
+
+### Practice 4  
+Write a program that picks a random number between 1 and 10. Give the user 4 chances to guess the number.  
+- If the user guesses the number, display **"You won"**.  
+- If the user fails, display **"You lost"**.  
+
+---
+
+### Practice 5  
+Write a program that asks the user to enter a series of numbers separated by commas. Find the maximum of the numbers and display it on the console. For example, if the user enters `5, 3, 8, 1, 4`, the program should display `8`.
+
+---
+
+## How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/csharp-practice-mosh.git

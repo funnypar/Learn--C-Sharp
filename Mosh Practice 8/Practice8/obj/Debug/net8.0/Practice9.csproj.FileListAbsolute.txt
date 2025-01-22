@@ -1,0 +1,14 @@
+D:\127.0.0.1\C#\projects\Practice9\Practice9\Practice9\bin\Debug\net8.0\Practice9.exe
+D:\127.0.0.1\C#\projects\Practice9\Practice9\Practice9\bin\Debug\net8.0\Practice9.deps.json
+D:\127.0.0.1\C#\projects\Practice9\Practice9\Practice9\bin\Debug\net8.0\Practice9.runtimeconfig.json
+D:\127.0.0.1\C#\projects\Practice9\Practice9\Practice9\bin\Debug\net8.0\Practice9.dll
+D:\127.0.0.1\C#\projects\Practice9\Practice9\Practice9\bin\Debug\net8.0\Practice9.pdb
+D:\127.0.0.1\C#\projects\Practice9\Practice9\Practice9\obj\Debug\net8.0\Practice9.GeneratedMSBuildEditorConfig.editorconfig
+D:\127.0.0.1\C#\projects\Practice9\Practice9\Practice9\obj\Debug\net8.0\Practice9.AssemblyInfoInputs.cache
+D:\127.0.0.1\C#\projects\Practice9\Practice9\Practice9\obj\Debug\net8.0\Practice9.AssemblyInfo.cs
+D:\127.0.0.1\C#\projects\Practice9\Practice9\Practice9\obj\Debug\net8.0\Practice9.csproj.CoreCompileInputs.cache
+D:\127.0.0.1\C#\projects\Practice9\Practice9\Practice9\obj\Debug\net8.0\Practice9.dll
+D:\127.0.0.1\C#\projects\Practice9\Practice9\Practice9\obj\Debug\net8.0\refint\Practice9.dll
+D:\127.0.0.1\C#\projects\Practice9\Practice9\Practice9\obj\Debug\net8.0\Practice9.pdb
+D:\127.0.0.1\C#\projects\Practice9\Practice9\Practice9\obj\Debug\net8.0\Practice9.genruntimeconfig.cache
+D:\127.0.0.1\C#\projects\Practice9\Practice9\Practice9\obj\Debug\net8.0\ref\Practice9.dll
